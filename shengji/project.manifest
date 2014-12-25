@@ -1,0 +1,280 @@
+{
+	"packageUrl": "https://raw.githubusercontent.com/wangxinnong/myapp/master/shengji/",
+	"remoteManifestUrl": "https://raw.githubusercontent.com/wangxinnong/myapp/master/shengji/project.manifest",
+	"remoteVersionUrl": "https://raw.githubusercontent.com/wangxinnong/myapp/master/shengji/version.manifest",
+	"version": "1.1",
+	"engineVersion": "3.1",
+	"assets": {
+		"src/AboutLayer.js": {
+			"md5": "a15e747694eba3dadec11c25fe7fe545"
+		},
+		"src/AboutLayer.jsc": {
+			"md5": "c528b171cd246d3c2b42b99707adf73d"
+		},
+		"src/AcceptedCards.js": {
+			"md5": "217b66d8fc130288866916ea99ffbd9f"
+		},
+		"src/AcceptedCards.jsc": {
+			"md5": "49bf2b6fd7b863c8cf854cb5d0137c2e"
+		},
+		"src/AssetsManagerTest.js": {
+			"md5": "bea154d6da066fb8cd508b33bef03089"
+		},
+		"src/BackCards.js": {
+			"md5": "6783e5f9f7f1f273baf6f05a16520c24"
+		},
+		"src/BackCards.jsc": {
+			"md5": "4fd672677c19ac74d3e98fdb291b45bb"
+		},
+		"src/BaseLayer.js": {
+			"md5": "1a817a475042895cdc8760df97d2bdf7"
+		},
+		"src/BaseLayer.jsc": {
+			"md5": "04ad01b50c025a97d7af9d737ff07587"
+		},
+		"src/Card.js": {
+			"md5": "e813d53e4f2a0ee2027c9391d18f13f1"
+		},
+		"src/Card.jsc": {
+			"md5": "b499daa5f4e1ec523c5ef81819682117"
+		},
+		"src/CardManager.js": {
+			"md5": "b3c3679e7761ffc74309e9f2766ecf96"
+		},
+		"src/CardManager.jsc": {
+			"md5": "04575cc305446acde7657ecab66ad3f6"
+		},
+		"src/Dialog.js": {
+			"md5": "e7ea9fba20311afeaf10d2fefe0d59b8"
+		},
+		"src/Dialog.jsc": {
+			"md5": "654da0c2ac9ed7c2635df4669d6124a0"
+		},
+		"src/Effect.js": {
+			"md5": "d864bada0f261e5063ff4420c46da90a"
+		},
+		"src/Effect.jsc": {
+			"md5": "c1427929ff4e8a7d74ab36b15e6970db"
+		},
+		"src/GameController.js": {
+			"md5": "3510c9f8c2be3e0ddff039d3a2c03324"
+		},
+		"src/GameController.jsc": {
+			"md5": "cb181082d2d219bb4379e78e64d88162"
+		},
+		"src/GameControllerNet.js": {
+			"md5": "7e818f2eaecde4411cfc7da6143417e5"
+		},
+		"src/GameControllerNet.jsc": {
+			"md5": "d52618f942cbcbf3d31ebd2cd4b41459"
+		},
+		"src/MainScene.js": {
+			"md5": "1344c683d17e587197b9762c1d6eff20"
+		},
+		"src/MainScene.jsc": {
+			"md5": "5fc8a8e611c4d9982bdb2e9b90ef1239"
+		},
+		"src/ModalLayer.jsc": {
+			"md5": "c99457a5edcda7df252bc627c38d9f35"
+		},
+		"src/Player.js": {
+			"md5": "9eb6dc66503ee91f50eabe376f0ca4bf"
+		},
+		"src/Player.jsc": {
+			"md5": "e76e9097059100a0daf2886929bf116a"
+		},
+		"src/PlayerList.js": {
+			"md5": "41f0db936ff479781df0ed95a4a52d7d"
+		},
+		"src/PlayerList.jsc": {
+			"md5": "b6f981ea5b841b1053eb16ce4e8f1f37"
+		},
+		"src/ServerList.js": {
+			"md5": "f5c6e275589891519c4f9ea6cd72a9ea"
+		},
+		"src/ServerList.jsc": {
+			"md5": "7daf6c53e42ebae60573e1e4f5e0fd96"
+		},
+		"src/SettingsLayer.js": {
+			"md5": "a8cd06c1bb370923123d3a919940c0a8"
+		},
+		"src/SettingsLayer.jsc": {
+			"md5": "930b0ee2afda266a979eca9e53f986a8"
+		},
+		"src/ShowScoreLayer.js": {
+			"md5": "69f062f75e4fb50e08670bb39e987101"
+		},
+		"src/ShowScoreLayer.jsc": {
+			"md5": "ff0cc7a31bc419eb49215e3b03fd1e06"
+		},
+		"src/SoundManager.js": {
+			"md5": "35c33c34f9135b4467ac04abc7da6dff"
+		},
+		"src/SoundManager.jsc": {
+			"md5": "acabf9b0b45e282763093de92c7bd76b"
+		},
+		"src/SouthPlayer.js": {
+			"md5": "888004bc7f7ae6d9ba6fae517c3471c7"
+		},
+		"src/SouthPlayer.jsc": {
+			"md5": "b230b6b19dead4da67da8c10343fcb19"
+		},
+		"src/SparkEffect.js": {
+			"md5": "3d32adcb31a978c54a5f6bb2eb9c9216"
+		},
+		"src/SparkEffect.jsc": {
+			"md5": "beb6a5b95f4e66499a35c7c31723ce50"
+		},
+		"src/SysMenu.js": {
+			"md5": "fceca35c88b451553c4b012cf50aeb9b"
+		},
+		"src/SysMenu.jsc": {
+			"md5": "8fc2b99fa1092da6c8f42b18c8d05266"
+		},
+		"src/UpdateChecker.js": {
+			"md5": "c8c3945e130bcc61d0f8d60e298715d8"
+		},
+		"src/UpdateChecker.jsc": {
+			"md5": "ece98e7ea7cba2af327da640777b16f3"
+		},
+		"src/ai/CSingleDoubleCards.js": {
+			"md5": "c810209998000528d9b9d090fd98e708"
+		},
+		"src/ai/CardAI.js": {
+			"md5": "26cdbd0ae7553f72af589a695ae2e166"
+		},
+		"src/ai/CardAI.jsc": {
+			"md5": "177a8e555ac1c1b3f80384ea5308e4c3"
+		},
+		"src/ai/CardAIManager.js": {
+			"md5": "c342febac6d3f38b721029587d8e6dbf"
+		},
+		"src/ai/CardAIManager.jsc": {
+			"md5": "dce39498c10e3472f4e84bcb760a3475"
+		},
+		"src/ai/CardContainer.js": {
+			"md5": "93ac4157a9e725060016d7c50595e49d"
+		},
+		"src/ai/CardContainer.jsc": {
+			"md5": "518d0ece4cb7f7694b513326ef6eda0e"
+		},
+		"src/ai/CommonCards.js": {
+			"md5": "7ca98cac600f0ea64436979ea3090809"
+		},
+		"src/ai/CommonCards.jsc": {
+			"md5": "5261226e7a0e5eb5fbc58cfa2da2cd36"
+		},
+		"src/ai/CompareChoose.js": {
+			"md5": "4bba4fe4d5cdffd6b3ee71f3f4f77087"
+		},
+		"src/ai/CompareChoose.jsc": {
+			"md5": "231e081ef497f666670bb2de22c0fc38"
+		},
+		"src/ai/ComplexCardContainer.js": {
+			"md5": "849ced82a37613469cdb6905600523d2"
+		},
+		"src/ai/ComplexCardContainer.jsc": {
+			"md5": "9512340dbba3dc2d1a081527ac9aa929"
+		},
+		"src/ai/ComplexCardType.js": {
+			"md5": "1453c3363431e6b5a17da82b65366f82"
+		},
+		"src/ai/ComplexCardType.jsc": {
+			"md5": "985b7a4b39632ddd3872d43ec7a4440c"
+		},
+		"src/ai/DirectChoose.js": {
+			"md5": "c68278ae50cddd5fa5709246ff352e23"
+		},
+		"src/ai/DirectChoose.jsc": {
+			"md5": "f99eb480c979c9c485d6c54655eda62e"
+		},
+		"src/ai/DoubleCards.js": {
+			"md5": "9331830afc019600d8a26d6c360f74f9"
+		},
+		"src/ai/DoubleCards.jsc": {
+			"md5": "7b53fb5c68af360b8366f13dd4ef3578"
+		},
+		"src/ai/MyCardContainer.js": {
+			"md5": "2a8636ca86379a0a44fd4d8b16e1c547"
+		},
+		"src/ai/MyCardContainer.jsc": {
+			"md5": "facf15776836c0f5dd62b74ac23cb750"
+		},
+		"src/ai/PlayController.js": {
+			"md5": "f36e5cc44464bc9570ed29c1b214cc4f"
+		},
+		"src/ai/PlayController.jsc": {
+			"md5": "db3633d5a1d846902a33b43e51d4850d"
+		},
+		"src/ai/PlayerAI.js": {
+			"md5": "afae16ef1ab726d40d6de2d8eb1576a7"
+		},
+		"src/ai/PlayerAI.jsc": {
+			"md5": "d2c7e768c84eccfd89ba0962d74ac081"
+		},
+		"src/ai/SingleCards.js": {
+			"md5": "a3746629e5e8b008bd6c943c7da10f09"
+		},
+		"src/ai/SingleCards.jsc": {
+			"md5": "a13167b0ccb7a32ad8ed2728d9ba60ce"
+		},
+		"src/ai/SingleDoubleCards.jsc": {
+			"md5": "610c7d163626ddcc37090735714c8b1e"
+		},
+		"src/ai/SouthPlayerAI.js": {
+			"md5": "2376d40b9d527dd9d866ff379640e442"
+		},
+		"src/ai/SouthPlayerAI.jsc": {
+			"md5": "e24eae0720ab5010e67a9f39c40c9c89"
+		},
+		"src/ai/TuoLaJi.js": {
+			"md5": "459ede21167f9c6ddcddcc13571c1193"
+		},
+		"src/ai/TuoLaJi.jsc": {
+			"md5": "a1cfa0baf50e547f1ffdc233234cbff3"
+		},
+		"src/ai/TuoLaJis.js": {
+			"md5": "47d62b5bc34f31230a77ff08c96ef029"
+		},
+		"src/ai/TuoLaJis.jsc": {
+			"md5": "8cf073d787f562280cbf466319a01229"
+		},
+		"src/ai/app.js": {
+			"md5": "d880fcc5426ef9d2608e9d582f3ac9a3"
+		},
+		"src/app.js": {
+			"md5": "7cdf3ff1d7c7cbc52a746e7827234234"
+		},
+		"src/files.jsc": {
+			"md5": "fbbdf83e552c4d58075c4c1a836cb16b"
+		},
+		"src/mainProcess.jsc": {
+			"md5": "a37a354773219e8a658426171af0aca72"
+		},
+		"src/resource.js": {
+			"md5": "dbcc84c29265670174475c27a18097f3"
+		},
+		"src/resource.jsc": {
+			"md5": "a152d220b7d5a6d68177d8779d59b08a"
+		},
+		"src/test/app.js": {
+			"md5": "0a5d71996bb4c3d54c313ec8bdd27f24"
+		},
+		"src/test/app.jsc": {
+			"md5": "c4aa45ffeca5d293f5879715d2f23369"
+		},
+		"src/utils.js": {
+			"md5": "1fb556209185b19743b007ec39b89f57"
+		},
+		"src/utils.jsc": {
+			"md5": "8ef18afa0c7aac730a8f9cfa3c323c9e"
+		},
+		"src/variables.js": {
+			"md5": "b9304665bd163fbbcd0c133306b32310"
+		},
+		"src/variables.jsc": {
+			"md5": "aedf6254eb099bc16ece78762e0d13d7"
+		}
+	},
+	"searchPaths": []
+}
