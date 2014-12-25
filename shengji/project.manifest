@@ -8,35 +8,14 @@
 		"src/ai/TuoLaJis.jsc": {
 			"md5": "8cf073d787f562280cbf466319a01229"
 		},
-		"src/ai/app.jsc": {
-			"md5": "d880fcc5426ef9d2608e9d582f3ac9a3"
-		},
-		"src/app.jsc": {
-			"md5": "7cdf3ff1d7c7cbc52a746e7827234234"
-		},
-		"src/files.jsc": {
-			"md5": "fbbdf83e552c4d58075c4c1a836cb16b"
-		},
 		"src/mainProcess.jsc": {
 			"md5": "a37a354773219e8a658426171af0aca72"
-		},
-		"src/resource.jsc": {
-			"md5": "dbcc84c29265670174475c27a18097f3"
 		},
 		"src/resource.jsc": {
 			"md5": "a152d220b7d5a6d68177d8779d59b08a"
 		},
 		"src/utils.jsc": {
-			"md5": "1fb556209185b19743b007ec39b89f57"
-		},
-		"src/utils.jsc": {
 			"md5": "8ef18afa0c7aac730a8f9cfa3c323c9e"
-		},
-		"src/variables.jsc": {
-			"md5": "b9304665bd163fbbcd0c133306b32310"
-		},
-		"src/variables.jsc": {
-			"md5": "aedf6254eb099bc16ece78762e0d13d7"
 		}
 	},
 	"searchPaths": []
