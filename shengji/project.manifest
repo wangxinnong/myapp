@@ -5,17 +5,140 @@
 	"version": "1.1",
 	"engineVersion": "3.1",
 	"assets": {
+		"src/AboutLayer.jsc": {
+			"md5": "41ecad7fd1d0989d9731635e213c4f06"
+		},
+		"src/AcceptedCards.jsc": {
+			"md5": "db7ae03d6fbaddc7eed0c30dd2541eb0"
+		},
+		"src/BackCards.jsc": {
+			"md5": "52b5c3acb27c9339c9274473f8bb92eb"
+		},
+		"src/BaseLayer.jsc": {
+			"md5": "64e8d5fcb10b7a5c42ae108bc94e6bc8"
+		},
+		"src/Card.jsc": {
+			"md5": "23be0afa05b2941e2fbed10917ad4f9c"
+		},
+		"src/CardManager.jsc": {
+			"md5": "021b24dc850b3de6f904b4087e8e002a"
+		},
+		"src/Dialog.jsc": {
+			"md5": "e4b907c81fd3236e79eabd3678337c82"
+		},
+		"src/Effect.jsc": {
+			"md5": "a33ed40fb9e311ae40612882fac46d40"
+		},
+		"src/GameController.jsc": {
+			"md5": "3415a8a8f844ea248847dbeec4f329d2"
+		},
+		"src/GameControllerNet.jsc": {
+			"md5": "c8c7c0b984e44b5b7a6f56089b091816"
+		},
+		"src/MainScene.jsc": {
+			"md5": "bee26ef7a62aa2094f11e007346d08a8"
+		},
+		"src/ModalLayer.jsc": {
+			"md5": "69b3305526d23e4722bbe87dfad94543"
+		},
+		"src/Player.jsc": {
+			"md5": "589287165d6754514e3e72e30275eed2"
+		},
+		"src/PlayerList.jsc": {
+			"md5": "b9269600413cd0cdb4b50c26898e453c"
+		},
+		"src/ServerList.jsc": {
+			"md5": "b42cc43dffd84aad2aef2d37fd2f306c"
+		},
+		"src/SettingsLayer.jsc": {
+			"md5": "d573ffda9bf04ce66fc74b84ad4154ac"
+		},
+		"src/ShowScoreLayer.jsc": {
+			"md5": "24a68fa6b5e2f2b73736f0027a89b5e1"
+		},
+		"src/SoundManager.jsc": {
+			"md5": "76420a58b9414db4627e65f30cdc921a"
+		},
+		"src/SouthPlayer.jsc": {
+			"md5": "abb946815f80bdad7ef44a01668a785f"
+		},
+		"src/SparkEffect.jsc": {
+			"md5": "12119747cea47ec4d5857676586c44bf"
+		},
+		"src/SysMenu.jsc": {
+			"md5": "6abbdd047431582731fc77a06e823af7"
+		},
+		"src/UpdateChecker.jsc": {
+			"md5": "a2bd33d4d2be1b172c20862d023f73c7"
+		},
+		"src/ai/CardAI.jsc": {
+			"md5": "82c0e9acbb762085d83ffc4a5b07b38a"
+		},
+		"src/ai/CardAIManager.jsc": {
+			"md5": "99e6f5810b0830203165eb3410072073"
+		},
+		"src/ai/CardContainer.jsc": {
+			"md5": "36be039b0f897f0f050f9088fbbdd7ab"
+		},
+		"src/ai/CommonCards.jsc": {
+			"md5": "c1d0f846794d689061cf3139ffce1e97"
+		},
+		"src/ai/CompareChoose.jsc": {
+			"md5": "1ad4708459d1bd5c48a29445c13b5a2e"
+		},
+		"src/ai/ComplexCardContainer.jsc": {
+			"md5": "5e25929ebb1aab50d853538eeddf6fe0"
+		},
+		"src/ai/ComplexCardType.jsc": {
+			"md5": "825daf6ad639f8c57485fa4a23fb491a"
+		},
+		"src/ai/DirectChoose.jsc": {
+			"md5": "7b29bcc05d86375f5c22c44f29d7dbe3"
+		},
+		"src/ai/DoubleCards.jsc": {
+			"md5": "490eb5188ac1771145c716c05e29a0b4"
+		},
+		"src/ai/MyCardContainer.jsc": {
+			"md5": "b0edb52560ea7147ef345a4fae9155b9"
+		},
+		"src/ai/PlayController.jsc": {
+			"md5": "8c2369cd1048b1d7f9803ac624ffb476"
+		},
+		"src/ai/PlayerAI.jsc": {
+			"md5": "085291c4ef4d46c3029f0af005027afc"
+		},
+		"src/ai/SingleCards.jsc": {
+			"md5": "567240049970469d331c73012d664a0e"
+		},
+		"src/ai/SingleDoubleCards.jsc": {
+			"md5": "aa7a4b24ec93cb498ed4bfd39c1ad25e"
+		},
+		"src/ai/SouthPlayerAI.jsc": {
+			"md5": "70b537be8211fe4862be52c1bbaa3c12"
+		},
+		"src/ai/TuoLaJi.jsc": {
+			"md5": "c2378c70c5abe83f89d59be3f7099df1"
+		},
 		"src/ai/TuoLaJis.jsc": {
-			"md5": "8cf073d787f562280cbf466319a01229"
+			"md5": "a5bd74e86c047827d5c0b9a687c0ae57"
+		},
+		"src/files.jsc": {
+			"md5": "d9ead8d17b4bd5a8c93085be61c3b094"
 		},
 		"src/mainProcess.jsc": {
-			"md5": "a37a354773219e8a658426171af0aca72"
+			"md5": "6f362add4b7d49198c9a5c877070fe59"
 		},
 		"src/resource.jsc": {
-			"md5": "a152d220b7d5a6d68177d8779d59b08a"
+			"md5": "762d25baf3d63ec4da7fa6d66f8f70ea"
+		},
+		"src/test/app.jsc": {
+			"md5": "769f85e9fcde8d6ef69741c9c37cd209"
 		},
 		"src/utils.jsc": {
-			"md5": "8ef18afa0c7aac730a8f9cfa3c323c9e"
+			"md5": "e720af5c376bd2af8b2ca89007c89741"
+		},
+		"src/variables.jsc": {
+			"md5": "a2b66f42d7793f6c3086b953ffc680e9"
 		}
 	},
 	"searchPaths": []
