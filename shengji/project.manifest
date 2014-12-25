@@ -26,12 +26,6 @@
 		"src/resource.jsc": {
 			"md5": "a152d220b7d5a6d68177d8779d59b08a"
 		},
-		"src/test/app.jsc": {
-			"md5": "0a5d71996bb4c3d54c313ec8bdd27f24"
-		},
-		"src/test/app.jsc": {
-			"md5": "c4aa45ffeca5d293f5879715d2f23369"
-		},
 		"src/utils.jsc": {
 			"md5": "1fb556209185b19743b007ec39b89f57"
 		},
